@@ -1,23 +1,23 @@
-# 🛍️ E-Commerce Ürün Yönetim Paneli
+# 🛍️ E-Commerce Product Management Panel
 
-Bu proje, PHP ve MySQL kullanılarak geliştirilmiş basit bir e-ticaret ürün yönetim panelidir. Kullanıcılar ürünleri **listeleyebilir**, **arama yapabilir**, **yeni ürün ekleyebilir**, **güncelleyebilir**, **silebilir** ve bir **yapay zeka asistanı** üzerinden ürünlerle ilgili doğal dilde sorular sorabilir.
+This project is a simple e-commerce product management panel developed using PHP and MySQL. Users can **list products**, **search**, **add new products**, **update**, **delete**, and ask natural language questions about products through an **AI assistant**.
 
-## 📸 Ekran Görüntüleri
+## 📸 Screenshots
 
-| Ürün Paneli | Ürün Güncelle | Yapay Zeka Asistanı |
+| Product Panel | Update Product | AI Assistant |
 |------------|---------------|---------------------|
-| ![Ürün Paneli](screenshots/1.png) | ![Güncelle](screenshots/2.png) | ![Asistan](screenshots/3.png) |
+| ![Product Panel](screenshots/1.png) | ![Update](screenshots/2.png) | ![Assistant](screenshots/3.png) |
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- ✅ Ürün listeleme (görselli)
-- 🔍 Ürün adı, açıklama, fiyat gibi alanlarda **arama**
-- ➕ Yeni ürün ekleme (resim yükleme dahil)
-- 🔄 Mevcut ürünü güncelleme (isteğe bağlı görsel güncelleme)
-- 🗑️ Ürün silme
-- 🤖 Basit doğal dil destekli **Yapay Zeka Asistanı** (OpenAI API ile)
+- ✅ Product listing (with visuals)
+- 🔍 **Search** by product name, description, and price
+- ➕ Add new products (including image upload)
+- 🔄 Update existing products (optionally update product image)
+- ❌ Delete products
+- 🤖 Simple natural language **AI Assistant** (via OpenAI API)
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
 - PHP (Core PHP, PDO)
 - MySQL & phpMyAdmin
