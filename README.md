@@ -24,8 +24,3 @@ Bu proje, PHP ve MySQL kullanılarak geliştirilmiş basit bir e-ticaret ürün 
 - HTML5 / CSS3
 - OpenAI API (ChatGPT)
 - Localhost (XAMPP)
-
-# Takım Üyeleri
-- Abdullah Enes Öncü – 20220305301
-- Zeynep Sinem Küçük – 20200305032
-- Saliha Büşra Akbulut – 20200305005
